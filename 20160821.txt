@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
-2016/8/21/.For Stash Operate锛宎nd append content after stash.
-=======
+2016/8/21/.For Stash Operate and append content after stash.
 2016/8/21
-2016/8/21追加新增的内容
->>>>>>> Stashed changes
+2016/8/21 append new content.
+
